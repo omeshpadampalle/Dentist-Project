@@ -21,39 +21,6 @@ if(isset($_POST['submit'])){
     else{
         $message[]='appointment failed';
     }
-
-// $html="<table><tr><td>Name</td><td>$name</td></tr></table>
-// <table><tr><td>Email</td><td>$email</td></tr></table>
-// <table><tr><td>Number</td><td>$number</td></tr></table>
-// <table><tr><td>Date</td><td>$date</td></tr></table>";
-
-// include('smtp/PHPMailerAutoload.php');
-// $mail=new PHPMailer(true);
-// $mail->IsSMTP();
-// $mail->Host="smtp.gmail.com";
-// $mail->Post=587;
-// $mail->SMTPSecure='tls';
-// $mail->SMTPAuth=true;
-// $mail->CharSet='UTF-8';
-// $mail->Username="omeshpadampalle@gmail.com";
-// $mail->Password="omesh@2708";
-// $mail->setFrom("omeshpadampalle@gmail.com");
-// $mail->addAddress("omeshpadampalle@gmail.com");
-// $mail->IsHTML(true);
-// $mail->Subject="New Contact Us";
-// $mail->Body=$html;
-// $mail->SMTPOptions=array('ssl'=>array(
-//     'verify_peer'=>false,
-//     'verify_peer_name'=>false,
-//     'allow_self_signed'=>false
-// ));
-    // if($mail->send()){
-    //     echo "Mail Send";
-    // }
-    // else{
-    //     echo "Error Occur";
-    // }
-
 }
 ?>
 
