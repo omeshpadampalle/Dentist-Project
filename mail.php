@@ -33,7 +33,7 @@ if(isset($_POST['submit'])){
 
     }
     catch(Exception $e){
-        $alert="<div class='alert-error'><span>'.$e->getMessage().'</span></div>";
+        // $alert="<div class='alert-error'><span>'.$e->getMessage().'</span></div>";
     }
 }
 

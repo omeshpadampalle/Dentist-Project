@@ -77,7 +77,7 @@ if(isset($_POST['submit'])){
         <div class="row min-vh-100 align-items-center">
             <div class="content text-center text-md-left">
                 <h3>Let us brighteen your smile</h3>
-                <p>Lorem ipsum dolor sit amet , adipisicing elit. Laboriosam possimus  blanditiis omnis illo a natus magnam explicabo!</p>
+                <h2>Get the beautiful white smile you've always wanted.</h2>
                 <a href="#contact" class="link-btn">Make appointment</a>
             </div>
 
@@ -95,7 +95,9 @@ if(isset($_POST['submit'])){
                 <div class="col-md-6 content">
                     <span>about us</span>
                     <h3>True HealthCare For Your Family</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat, minus saepe. Maxime, est similique sunt corrupti minus eius? Tempore voluptatibus eius aspernatur earum veritatis perferendis unde tenetur eum laudantium repudiandae.</p>
+                    <p>At Dental Care Dentistry, we’re dedicated to excellence, education, and going above and beyond to provide a remarkable patient experience. Enjoy comfortable, comprehensive service through:Personalized treatment plans based on your needs
+Discussion of our recommendations so you know what to expect
+Detailed answers to all your questions to help you feel confident </p>
                     <a href="#contact" class="link-btn">make appointment</a>
                 </div>
             </div>
@@ -109,37 +111,37 @@ if(isset($_POST['submit'])){
             <div class="box">
                 <img src="images/icon-1.svg" alt="icon1">
                 <h3>Alignment specialist</h3>
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.non ?</p>
+                <p>An Orthodontist specializes in treating the tooth problem properly by correcting the alignment of the tooth.</p>
             </div>
 
             <div class="box">
                 <img src="images/icon-2.svg" alt="icon1">
                 <h3>Cosmetic Dentistry</h3>
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.non ?</p>
+                <p>Cosmetic dentistry is a method of professional oral care that focuses on improving the appearance of your teeth.</p>
             </div>
 
             <div class="box">
                 <img src="images/icon-3.svg" alt="icon1">
                 <h3>Oral hygiene experts</h3>
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.non ?</p>
+                <p>oral hygiene procedure is a mechanical way to remove bacterial plaque and tartar, including toxins accumulated on the surfaces of teeth.</p>
             </div>
 
             <div class="box">
                 <img src="images/icon-4.svg" alt="icon1">
                 <h3>Root canal specialist</h3>
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.non ?</p>
+                <p>Root canal is a treatment to repair and save a badly damaged or infected tooth instead of removing it.</p>
             </div>
 
             <div class="box">
                 <img src="images/icon-5.svg" alt="icon1">
                 <h3>Live dental advisory</h3>
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.non ?</p>
+                <p>We gives the best live dental advisory.</p>
             </div>
 
             <div class="box">
                 <img src="images/icon-6.svg" alt="icon1">
                 <h3>Cavity inspection</h3>
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.non ?</p>
+                <p>Cavities are holes, or areas of tooth decay, that form in your teeth surfaces.</p>
             </div>
         </div>
 </section>
@@ -151,19 +153,19 @@ if(isset($_POST['submit'])){
             <div class="box">
                 <img src="images/process-1.png" alt="">
                 <h3>Cosmetic Dentistry</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga consequuntur odio illo rem recusandae aspernatur atque repudiandae voluptatum fugit eum eligendi expedita iusto quas cumque, sapiente minima, laudantium, ab id?</p>
+                <p>Teeth whitening is the most common cosmetic dental procedure. It allows people to make noticeable improvements to their smile without undergoing invasive treatments.</p>
             </div>
 
             <div class="box">
                 <img src="images/process-2.png" alt="">
                 <h3>Pediatric Dentistry</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga consequuntur odio illo rem recusandae aspernatur atque repudiandae voluptatum fugit eum eligendi expedita iusto quas cumque, sapiente minima, laudantium, ab id?</p>
+                <p>Pediatric dental procedures differ slightly from adult dental procedures, but they are all relatively similar. Children’s dentist appointments are more frequent because their teeth are still developing. It is important for their growth to be monitored by a pediatric dentist to ensure that everything is going smoothly.</p>
             </div>
 
             <div class="box">
                 <img src="images/process-3.png" alt="">
                 <h3>Dental ImPlant</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga consequuntur odio illo rem recusandae aspernatur atque repudiandae voluptatum fugit eum eligendi expedita iusto quas cumque, sapiente minima, laudantium, ab id?</p>
+                <p>A dental implant procedure is an outpatient surgery. The implant is made of titanium and other materials that fuse with your jawbone and imitate the root of a tooth.2 This artificial root allows the dentist to secure your replacement teeth so they feel stable and blend in with your surrounding teeth.</p>
             </div>
         </div>
 </section>
@@ -174,7 +176,8 @@ if(isset($_POST['submit'])){
     <div class="box-container contaier">
         <div class="box">
             <img src="images/pic-1.png" alt="">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum officiis voluptate provident? Iure odit natus optio ratione perspiciatis! Nihil eius officiis voluptatum consectetur deserunt inventore mollitia. Eaque laudantium eveniet optio.</p>
+            <p>Great friendly service and so caring. Excellent treatment and would not hesitate to recommend ????
+13/01/2023</p>
             <div class="stars">
                 <i class="fas fa-star"></i>
                 <i class="fas fa-star"></i>
@@ -188,7 +191,8 @@ if(isset($_POST['submit'])){
 
         <div class="box">
             <img src="images/pic-2.png" alt="">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum officiis voluptate provident? Iure odit natus optio ratione perspiciatis! Nihil eius officiis voluptatum consectetur deserunt inventore mollitia. Eaque laudantium eveniet optio.</p>
+            <p>Easy to book online. We usually see Pooja as she always gives good tips on how to improve your dental health
+11/03/2023</p>
             <div class="stars">
                 <i class="fas fa-star"></i>
                 <i class="fas fa-star"></i>
@@ -202,7 +206,7 @@ if(isset($_POST['submit'])){
 
         <div class="box">
             <img src="images/pic-3.png" alt="">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum officiis voluptate provident? Iure odit natus optio ratione perspiciatis! Nihil eius officiis voluptatum consectetur deserunt inventore mollitia. Eaque laudantium eveniet optio.</p>
+            <p>Always very friendly and helpful. Explains everything thoroughly too you and puts you at ease. I highly recommend the  Dental Care Clinic. LM 7.10.2022</p>
             <div class="stars">
                 <i class="fas fa-star"></i>
                 <i class="fas fa-star"></i>
